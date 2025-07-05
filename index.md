@@ -1,9 +1,11 @@
 # **How to Download, Install, and Reinstall PC Matic Already Purchased on Windows 11 and 10: A Step-by-Step Guide for Existing Customers**
 
-If you're an existing PC Matic customer and need to **download, install, or reinstall PC Matic already purchased**, this step-by-step guide will walk you through the entire process. Whether you're using Windows 10 or Windows 11, following the correct steps ensures your system stays protected without having to repurchase anything.
+If you're an existing PC Matic customer and need to **[download, install, or reinstall PC Matic already purchased](https://mylicensepage.click/install-pc-matic/)**, this step-by-step guide will walk you through the entire process. Whether you're using Windows 10 or Windows 11, following the correct steps ensures your system stays protected without having to repurchase anything.
 
-This guide is tailored for those who already own a valid license and want to **reinstall PC Matic** on the same PC or install it on a new device.
+This guide is tailored for those who already own a valid license and want to **[reinstall PC Matic](https://mylicensepage.click/install-pc-matic/)** on the same PC or install it on a new device.
 
+
+<center><a href="https://mylicensepage.click/install-pc-matic/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With PCMatic</a></center>
 
 
 ## Understanding Your PC Matic Subscription
@@ -33,6 +35,8 @@ To begin the process:
 
 [Once logged in, you'll be able to see your subscription details and manage your devices.](https://mymaticpc.readthedocs.io/)
 
+
+<center><a href="https://mylicensepage.click/install-pc-matic/" target="_blank" style="padding:10px 20px; background-color:#0000FF; color:white; text-decoration:none; border-radius:5px;">Get Started With PCMatic</a></center>
 
 
 ### Step 2: Download PC Matic Already Purchased
